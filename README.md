@@ -47,9 +47,17 @@ Gain hands-on experience with VPNs, understand how they protect user privacy and
 ---
 
 Before
+
   ![image](https://github.com/OmmAshutosh/EL_Internship_Task-8/blob/4c1564570461cab4e46e28b3f0f44146215eb6d0/Before%20-%20IPv4.png)
+
+
+  
 After;
+
+
   ![image](https://github.com/OmmAshutosh/EL_Internship_Task-8/blob/4c1564570461cab4e46e28b3f0f44146215eb6d0/After%20-%20IPv4.png)
+
+  
 ---
 
 ## 🔍 VPN Encryption & Privacy Features
